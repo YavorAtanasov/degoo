@@ -1,7 +1,7 @@
 # degoo
 600GB free backup space.
 
-degoo.com is a service offering 100GB backup space for free and option to add 500GB more inviting friedns to use it.
+[degoo.com](https://degoo.com/) is a service offering 100GB backup space for free and option to add 500GB more inviting friedns to use it.
 Using this script you will be able to add as many additional space as you want (up to 500GB).
 
 ##It is very easy to use.##
